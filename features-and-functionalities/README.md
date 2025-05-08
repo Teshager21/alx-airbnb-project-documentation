@@ -9,7 +9,7 @@ This application is a simplified clone of Airbnb, enabling users to list, book, 
 
 The following diagram visualizes the features and functionalities of  the system:
 
-![features-and-functionalities](.\features_and_functionalities.drawio.png)
+![features-and-functionalities](features_and_functionalities.drawio.png)
 
 ### 👤 Guest Features
 - ✅ Account registration and login
