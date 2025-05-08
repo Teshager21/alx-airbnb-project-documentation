@@ -4,10 +4,10 @@ This application is a simplified clone of Airbnb, enabling users to list, book, 
 
 ---
 
-## 🌟 Core Features by Role
-The following diagram visualizes the features and functionalities of  the system:
+## 🌟 Use Cases 
+The following diagram visualizes the usecases of the system:
 
-![features-and-functionalities](features_and_functionalities.drawio.png)
+![use-cases-diagram](airbnb-usecase.drawio.png)
 
 ### 👤 Guest Features
 - ✅ Account registration and login
